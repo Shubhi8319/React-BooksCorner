@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "A Little Princess",
+        "type": "kids",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-1371.jpg?itok=AT7JJfHh",
+        "story": "The story of a girl named Alice who falls down a rabbit hole into a fantasy world populated by peculiar and anthropomorphic creatures. The tale is filled with allusions to Dodgson's friends. The tale plays with logic in ways that have given the story lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the genre of literary nonsense, and its narrative course and structure have been enormously influential, especially in the fantasy genre. ",
+        "published": 1933,
+        "pages": 29
+   },
+      {
+        "id": 2,
+        "name": "Alice in Wonderland",
+        "type": "kids",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-14299.jpg?itok=wPpEKSe6",
+        "story": "The story of a girl named Alice who falls down a rabbit hole into a fantasy world populated by peculiar and anthropomorphic creatures. The tale is filled with allusions to Dodgson's friends. The tale plays with logic in ways that have given the story lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the genre of literary nonsense, and its narrative course and structure have been enormously influential, especially in the fantasy genre. ",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 3,
+        "name": "Adventures of Huckleberry Finn",
+        "type": "kids",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-7032.jpg?itok=SzLOTSG-",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 4,
+        "name": "The Adventures of Sherlock Holmes",
+        "type": "Mystery and thriller",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-2305.jpg?itok=fKkqXRnW",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 5,
+        "name": "Crime and Punishment",
+        "type": "Mystery and thriller",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-2262.jpg?itok=uJn7UVVH",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 6,
+        "name": "The Secret Adversary",
+        "type": "Mystery and thriller",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-1704.jpg?itok=5GwsfdUd",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 7,
+        "name": "The Count of Monte Cristo",
+        "type": "Adventure",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-2356.jpg?itok=NsH-dAJf",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 8,
+        "name": "The Mysterious Island",
+        "type": "Adventure",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-7169.jpg?itok=oeoc-UMU",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 9,
+        "name": "A Journey to the Centre of the Earth",
+        "type": "Adventure",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-10748.jpg?itok=cBO0Hw7-",
+        "story": "A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.A classic adventure novel, often considered Dumas' best work, and frequently included on lists of the best novels of all time. Completed in 1844, and released as an 18-part series over the next two years, Dumas collaborated with other authors throughout. The story takes place in France, Italy, and the Mediterranean from the end of the rule of Napoleon I through the reign of Louis-Philippe.",
+        "published": 1933,
+        "pages": 29
+   
+       },
+      {
+        "id": 10,
+        "name": "The Call of Cthulhu",
+        "type": "Horror",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-13095.jpg?itok=H0c1QL8Y",
+        "story": "ren't made for human beings, and their size bothered us. Anyway, it was devilish heavy. We had to have the Americans down to get It out. They weren't anxious to go into the place, but of course the worst thing was safely inside the box. We told them it was a batch of ivory carving--archeological stuff; and after seeing the carved throne they probably believed us. It's a wonder they didn't suspect hidden treasure and demand a share. They must have told queer tales around Nome later on; though I doubt if they ever went back to those ruins, even for the ivory throne.Rogers paused, felt around in his desk, and produced an envelope of good-sized photographic prints. Extracting one and laying it face down before him, he handed the rest to Jones. The set was certainly an odd one: ice-clad hills, dog sledges, men in furs, and vast tumbled ruins against a background of snow--ruins whose bizarre outlines and enormous stone blocks could hardly be accounted for. One flashlight view showed an incredible interior",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 11,
+        "name": "Dracula",
+        "type": "Horror",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-6694.jpg?itok=1NNJXYUa",
+        "story": "ren't made for human beings, and their size bothered us. Anyway, it was devilish heavy. We had to have the Americans down to get It out. They weren't anxious to go into the place, but of course the worst thing was safely inside the box. We told them it was a batch of ivory carving--archeological stuff; and after seeing the carved throne they probably believed us. It's a wonder they didn't suspect hidden treasure and demand a share. They must have told queer tales around Nome later on; though I doubt if they ever went back to those ruins, even for the ivory throne.Rogers paused, felt around in his desk, and produced an envelope of good-sized photographic prints. Extracting one and laying it face down before him, he handed the rest to Jones. The set was certainly an odd one: ice-clad hills, dog sledges, men in furs, and vast tumbled ruins against a background of snow--ruins whose bizarre outlines and enormous stone blocks could hardly be accounted for. One flashlight view showed an incredible interior",
+        "published": 1933,
+        "pages": 29
+   
+      },
+      {
+        "id": 12,
+        "name": "The Horror in the Museum",
+        "type": "Horror",
+        "img": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-28339.jpg?itok=nhYVbOxe",
+        "story": "ren't made for human beings, and their size bothered us. Anyway, it was devilish heavy. We had to have the Americans down to get It out. They weren't anxious to go into the place, but of course the worst thing was safely inside the box. We told them it was a batch of ivory carving--archeological stuff; and after seeing the carved throne they probably believed us. It's a wonder they didn't suspect hidden treasure and demand a share. They must have told queer tales around Nome later on; though I doubt if they ever went back to those ruins, even for the ivory throne.Rogers paused, felt around in his desk, and produced an envelope of good-sized photographic prints. Extracting one and laying it face down before him, he handed the rest to Jones. The set was certainly an odd one: ice-clad hills, dog sledges, men in furs, and vast tumbled ruins against a background of snow--ruins whose bizarre outlines and enormous stone blocks could hardly be accounted for. One flashlight view showed an incredible interior",
+        "published": 1933,
+        "pages": 29
+   
+      }
+  
+]
